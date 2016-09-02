@@ -1,0 +1,546 @@
+﻿1. Samantha agrees to buy a bicycle from Tony for $225. This is an example of a(n)
+A. unilateral contract. 
+B. bilateral contract. 
+C. renegotiated agreement.
+D. nonverbal agreement.
+2. Lucy authorized her accountant, attorney, and life-insurance agent to care for her assets and make
+decisions regarding her money and property. Her accountant, attorney, and life-insurance agent are her
+A. relationship experts. 
+B. bookkeepers. 
+C. fiduciaries.
+D. economists.
+3. Mary is accused of understating the tax due on her federal tax returns for the last five years. The
+understatement has nothing to do with a tax shelter. Mary is very concerned that she will be fined or sent to jail if she is convicted of understating her tax. Which of the following statements regarding Mary's situation is true?
+A. If a Certified Public Accountant prepared Mary's return, she can probably avoid government
+penalties for the understatement of tax.
+B. Mary is likely to be sent to jail for understating her tax due because she didn't use a federallyapproved
+tax shelter.
+C. The federal tax-collection agency should recognize the understatement as a tax shelter because
+Mary is 45 years old.
+D. Mary should take her brother's advice and store her assets in an offshore bank account.
+4. Retirement accounts and real estate are examples of
+A. intangible assets. 
+B. garnishments. 
+C. tax shelters.
+D. derivatives.
+5. Which of the following groups is most likely to enforce public corporations' compliance with financial
+reporting standards:
+A. World Bank representatives 
+B. Local law enforcement officers 
+C. A securities regulatory commission 
+D. The federal judicial system
+6. Which of the following quality-management methodologies is often used in the finance industry to sustain regulatory compliance:
+A. Cost Standards 
+B. Six Sigma 
+C. Strategic planning 
+D. First-in, First-out
+7. To better meet compliance requirements, Money Plus Bank needs to improve its processes for
+calculating and reporting risk-weighted assets. Which of the following is the best course of action for
+Money Plus Bank to take to improve these processes:
+A. Encourage customers to utilize the bank's online account system
+B. Improve the bank's new-employee training program
+C. Increase cross-functional cooperation among employees
+D. Switch from manual to automated calculation and reporting methods
+8. In general, a governance, risk, and compliance (GRC) software system identifies and measures risk;
+monitors the risk-management system; routinely checks adherence to company-wide policies; and
+ensures compliance with
+A. union demands. 
+B. reporting requirements. 
+C. product standards.
+D. contingency plans.
+9. Jake is researching career trends in the field of accounting. Which of the following sources is most likely to contain the most current, credible information:
+A. An early edition of the Managerial Accounting in Practice textbook
+B. The federal government's labor and workforce web site
+C. An online newspaper article written by a well-known compliance expert
+D. The latest edition of the Insurance News Monthly trade publication
+10. An individual calls your company and asks to speak with your coworker, Rhonda Hoffman. What should you do if Rhonda is not available to take the call?
+A. Tell the caller that you would be glad to take his/her order.
+B. Advise the caller to call again in a few minutes.
+C. Ask the caller if s/he would like to leave a message.
+D. Put the caller on hold while you track down Rhonda.
+11. Lana wants to include a two-dimensional graphic that shows the groupings and patterns of multiple
+variables in her business report. Which of the following graphic aids would best illustrate the data:
+A. Table 
+B. Pie chart 
+C. Timeline 
+D. Scatter chart
+12. The human-resources manager sends an e-mail to all employees stating that they will need to park on the street on Tuesday because the maintenance department will be repairing the company's parking lot. This is an example of a(n)
+A. business proposal. 
+B. projection report. 
+C. informational message.
+D. formal inquiry.
+13. Which of the following is an example of horizontal communication in the workplace:
+A. An employee provides his/her manager with a status report about the company's new web site.
+B. A supervisor provides a line worker with feedback about her/his job performance.
+C. A manager provides a new employee with advice on job advancement within the company.
+D. An employee sends an e-mail to a coworker about a short-term project.
+14. Before you can adapt your communication style to relate to businesspeople from other countries, you must first
+A. learn to speak the country's language fluently.
+B. realize that cultural differences exist.
+C. develop an ethnocentric attitude.
+D. change your personal values and beliefs.
+15. When helping a slow/methodical type of customer, salespeople should
+A. follow the customer around the store to explain products' benefits.
+B. show the customer as many options as possible.
+C. take care not to overwhelm the customer.
+D. press the customer to select one of two options.
+16. Anna, the Bank Plus customer relationship manager, recently developed and implemented a new
+customer relationship strategy across the organization. The strategy emphasizes better understanding of customer needs. Anna also developed a recognition program to reward employees for delivering quality customer service. Which of the following is most likely to be Anna's primary goal in implementing the new strategy:
+A. Promoting the bank's new products and services
+B. Publicly recognizing outstanding bank employees
+C. Developing stronger long-term customer relationships
+D. Reducing the number of forms new customers must fill out
+17. An important aspect of ethical behavior by financial-services providers is ensuring that their clients
+A. purchase high-risk investments to generate better financial returns.
+B. understand the potential risks and rewards of different financial products.
+C. diversify their financial portfolios by investing more than half of their money in hedge funds.
+D. preplan future investment strategies for unexpected financial bonuses.
+18. Beverly, the new office manager, just completed a review of the last two years of accounts receivable data. In doing so, she discovered that there are erroneous duplicate entries totaling $25,628 in the system. Unfortunately, due to these duplicate entries, collection letters were sent to many customers who had already paid in full—customers who are angry with the company for sending them the letters. What should Beverly do to try to save these customer relationships and ensure that these customers are not bothered in the future?
+A. Use funds from the accounts payable account to pay the debt
+B. Complete an accounting software update
+C. Contact each customer by phone and apologize
+D. Complete a data cleansing of the erroneous entries
+19. An accounts payable analyst is using technology to collect and isolate customer records from the
+disbursing system. The tool can retrieve and organize a massive number of customer records in just a
+short time. What type of technology is the analyst using?
+A. Computer-aided design 
+B. A CRM database 
+C. A neural network 
+D. GPS technology
+20. To keep up with social, political, economic, and regulatory changes that affect their business activities, companies should
+A. conduct environmental scans. 
+B. implement internal analyses. 
+C. plan customer interviews.
+D. prepare organizational inspections.
+21. Members of the air-traffic controllers' union stopped working to support the pilots' union that recently went on strike. This is an example of a
+A. boycott. 
+B. lockout. 
+C. sympathetic strike.
+D. wildcat strike.
+22. A manufacturer has more workers on hand to perform production activities than it does production
+equipment. What economic principle does this exemplify?
+A. Law of minimal utility 
+B. Law of diminishing returns 
+C. Economies of scale 
+D. Economies of scoring
+23. Consumer spending tends to decrease when
+A. business activities slow. 
+B. interest rates decrease. 
+C. an economic recession ends.
+D. the inflation rate decline.
+24. What condition exists if a nation imports more goods and services than it exports?
+A. Trade deficit 
+B. Balance of trade 
+C. Trade surplus 
+D. Comparative advantage
+25. Which of the following statements is true of a positive attitude:
+A. It's not very important, but it is nice to have.
+B. You can achieve one, but it requires work.
+C. It has little impact on your ability to reach your goals.
+D. It's something that you are born with.
+26. When Cynthia, a credit analyst with Houghton Software, heard rumors of a company layoff, she asked her manager Todd if the rumors were true and if her job was in jeopardy. Although Todd knew that some lay-offs were coming, he told Cynthia not to worry about things. The following week, Cynthia's job was eliminated. In this situation, ethical issues regarding company information occurred because
+A. Todd was completely honest with Cynthia. 
+B. Cynthia asked irrelevant questions. 
+C. Todd misled Cynthia.
+D. Cynthia started the rumors.
+27. How can you show that you're actively listening in a negotiation?
+A. Respond emotionally to what the other person says.
+B. Think about what you'll say next while the other person is speaking.
+C. Repeat or summarize the other person's statements.
+D. Keep a positive, open, and objective attitude.
+28. Which of the following is an example of a conflict that causes personal motivation or drive:
+A. High school students compete to sell the most candy in a school fundraiser.
+B. Kevin has a class and a meeting scheduled for Tuesday afternoon.
+C. Two coworkers need to use the copy machine at the same time.
+D. Jane and Amy both want to be in charge of their presentation.
+29. What is the advantage to groups that use consensus building to make decisions?
+A. Group members rarely disagree. 
+B. Agreement is reached very quickly. 
+C. Decision making involves a majority rule.
+D. All decision makers have equal power.
+30. To have successful collaborative partnerships in the workplace, it is important for employees to
+A. limit communication. 
+B. establish trust. 
+C. avoid conflict.
+D. support all ideas.
+31. When Thomas bought his car from the Reinhart Auto Dealership, he gave the dealership a $4,000 down payment. Thomas will make a monthly payment of $365 to the dealership until he has paid off the loan. Thomas bought his car by using ___________ credit.
+A. service 
+B. revolving 
+C. budget 
+D. installment
+32. Justine's rich uncle wants to give her $5,000 towards the purchase of a car. But since Justine doesn't
+plan to buy the car for at least another year, her uncle told her that she can have the money now, or he
+can wait and give her the money when she actually buys the car. Justine chooses to take the money now
+and deposit it in her savings account. After all, her deposit will yield 6% interest compounded annually. A year from now, her $5,000 will be worth $5,300. What financial concept does this scenario illustrate?
+A. Capital budgeting 
+B. Dividend reinvestment plan 
+C. Time-value of money 
+D. Accrual accounting
+33. You want to be a millionaire by the time you retire. To reach that goal, you put $2,000 per year in an IRA, starting at age 21. You will earn nine percent interest annually. As a result, you will have $1,156,517 at age 65. This scenario illustrates the power of
+A. compound interest. 
+B. finance charges. 
+C. fiscal policy.
+D. the prime interest rate.
+34. State Street Bank sends text messages to its customers when $100 or more are withdrawn from their bank accounts. The bank sends these notifications to reduce the risks associated with
+A. money laundering. 
+B. loan fraud. 
+C. identity theft.
+D. firewall intrusion.
+35. When preparing her tax return, Lynnette listed the interest that she paid on her student loan as
+A. taxable earnings. 
+B. investment income. 
+C. a tax-exempt investment.
+D. an itemized deduction.
+36. Henry is a professional banker. Only certain people—"members"—may save at or borrow money from his deposit-taking financial institution. Henry is most likely to work for a(n)
+A. CPA firm. 
+B. mortgage company. 
+C. insurance company.
+D. credit union.
+37. Which of the following statements regarding financial institutions is true:
+A. A financial institution with low value is doing a good job of managing its risk.
+B. Financial institutions facilitate the flow of money in the economy.
+C. Financial institutions are controlled by their members.
+D. The primary role of financial institutions is to regulate saving and investing.
+38. Which of the following statements regarding debt and equity markets is correct:
+A. Common stock, an example of a debt instrument, is traded on the equity market.
+B. Investors who purchase a company's bonds gain partial ownership of the business.
+C. If a company suffers financial difficulties, its stockholders are paid before its bondholders.
+D. Bonds, which are debt instruments, are typically less risky investments than stocks.
+39. The New York Stock Exchange is a(n) __________ market.
+A. spot 
+B. over-the-counter 
+C. commodities 
+D. auction
+40. A retail bank and an insurance company, which recently merged together, are moving from two legacy accounting systems to one enterprise planning system for the new, larger organization. This is an
+example of __________ in the finance industry.
+A. bancassurance 
+B. increased liquidity 
+C. convergence 
+D. knowledge management
+41. What is a common course of action for small banking institutions interested in competing globally and improving their efficiencies, viability, and profitability?
+A. Consolidating with larger banks 
+B. Rapidly expanding their operations 
+C. Following global regulations more closely 
+D. Dissolving their financial holding companies
+42. According to most analysts, the three economic indicators that stock market investors and traders should pay the closest attention to are
+A. Gross Domestic Product, overhead expenses, and unemployment.
+B. interest rates, overhead expenses, and inflation.
+C. Gross Domestic Product, unemployment, and inflation.
+D. inflation, unemployment, and bonds rates.
+43. Which of the following has contributed to financial globalization:
+A. An increase in restrictions on foreign investment and international trade
+B. An increase in taxes on international financial transactions
+C. A reduction in foreigners' access to domestic financial markets
+D. A movement from fixed exchange rates to floating exchange rates
+44. Kendra 's financial goal is to build wealth over time by making diversified investments. Which of the
+following financial services providers is most likely to help Kendra achieve her goal:
+A. Financial-auditing firm 
+B. Mortgage company 
+C. Investment bank 
+D. Asset-management firm
+45. Which financial statement should an investor use to quickly determine a company's “bottom line”?
+A. Statement of retained earnings 
+B. Cash flow statement 
+C. Balance sheet 
+D. Income statement
+46. Which of the following are among the most important resources to access prior to purchasing stock in a company:
+A. EDGAR and the Statement of Ownership 
+B. ESOP and the company's web site 
+C. EDGAR and the company's web site 
+D. ESOP and the Statement of Ownership
+47. The most common headings on a stock table include the 52-week high and low, the stock symbol, the estimated dividend per share, the yield percentage/rate of return, the volume/sales for the day, the
+closing price for the day, the net change and the
+A. price-earnings ratio. 
+B. earnings per share. 
+C. net income.
+D. stockholder's equity.
+48. Geraldo, who is considering whether or not to invest in Coffee Dreams, Inc., is studying information about the company on a stock table. One piece of data that he is interested in reviewing is the difference between the stock's closing price and the previous day's closing price. Geraldo should review the
+A. ticker symbol. 
+B. net change. 
+C. price-earnings ratio.
+D. 52-week high and low.
+49. Certificates of deposit and municipal bonds are types of
+A. value stocks. 
+B. ownership securities. 
+C. commodities.
+D. lending investments.
+50. On a balance sheet, a business categorizes its inventory and accounts receivable as
+A. long-term assets. 
+B. owner's equity. 
+C. current assets.
+D. current liabilities.
+51. Leslie is good friends with Paul, who oversees the Bex Company's central data depository for financial information. Paul recently told Leslie that based on confidential financial data that he saw at work, Bex's profits have dropped by a third this year. Paul also told Leslie that she should sell her shares of Bex stock before the market finds out about the company's financial difficulties, which will surely make Bex's stock price plummet. This situation is an example of
+A. encryption. 
+B. disparate data. 
+C. stewardship.
+D. insider trading.
+52. Financial-information management is responsible for collecting, maintaining, and reporting data about financial transactions. Business managers often use these data to
+A. forecast financial inflows and outflows. 
+B. determine if liability insurance is needed. 
+C. develop secondary equity markets.
+D. calculate the level of corporate groupthink.
+53. Pamela was dismissed from her job as a financial database administrator because she shared her
+username and password with a coworker so that he could access a customer database that is typically
+off-limits to him. Pamela failed to fulfill her responsibilities as a data
+A. steward. 
+B. auditor. 
+C. sponsor.
+D. processor.
+54. Which of the following statements regarding the security of most financial institutions' data is true:
+A. Data in transit are more at risk than data at rest or data in process.
+B. Firewalls completely eliminate all external threats to the data.
+C. More data attacks come from inside the organizations than outside them.
+D. Investments in financial-information security have decreased in recent years.
+55. Which of the following is a benefit of financial-information management software:
+A. Improves productivity by replacing automated activities with manual tasks
+B. Provides users with faster, better access to data from multiple sources
+C. Lowers compliance costs by eliminating audit trails and economies of scale
+D. Reduces risk and lowers confidence in the confidentiality and safety of data
+56. Every morning, as soon as Lukas gets to the office, he logs onto his computer and uses a data-mining
+application on his computer home screen to quickly review the company's financial performance. The
+financial data are typically displayed in charts and tables. Lukas is using a(n)
+A. dashboard. 
+B. text-mining tool. 
+C. artificial neural network.
+D. decision tree.
+57. A business owner is concerned that some of his employees may be using their company credit cards to make personal purchases. Which data mining technique should the owner use to review the employees' credit card transactions each month to identify questionable transactions?
+A. Nearest-neighbor method 
+B. Decision trees 
+C. Artificial neural networks 
+D. Dashboards
+58. Tara knows that for her small business to grow, she must increase her cash flow. She's unsure, though, whether she should take out a loan or a line of credit. Which of the following budgeting software tools could Tara use to assess the potential impact of each source of funding on her business:
+A. Environmental scanning 
+B. Decision trees 
+C. Debt modeling 
+D. Zero-based modeling
+59. Which of the following software applications would be best for a small business owner to use to develop his/her annual budget:
+A. A project-management application 
+B. A database application 
+C. A digital dashboard application 
+D. A spreadsheet application
+60. Franco's manager asked him to develop a report that compares their company's fourth-quarter
+performance with others in its industry. Which financial-analysis software feature should Franco use to
+generate information for his report?
+A. Forecasting 
+B. Ratio analysis 
+C. DuPont modeling 
+D. Benchmarking
+61. Raul's manager asked him to prepare a database query that would allow him to view lists of invoices
+generated in specific time periods. At the moment, the manager only needs two lists: one that lists all
+invoices generated in the last 30 days and another that lists all invoices generated in the last 60 days.
+The manager will probably ask Raul to mine for similar data in the future—just for different time periods. What type of query could Raul use to mine for this information without having to prepare a new query every time?
+A. Crosstab query 
+B. Parameter query 
+C. Wildcard query 
+D. Status query
+62. One reason why public corporations are required to provide accurate financial reports is because existing and potential shareholders use them to
+A. ensure capital gains. 
+B. compile annual reports. 
+C. understand currency exchange rates.
+D. make investment decisions.
+63. Independent auditors review the accuracy of a public corporation's financial statements to
+A. test accounting methods. 
+B. verify compliance. 
+C. evaluate risk.
+D. summarize collection techniques.
+64. A primary difference between accounting and finance is that the accounting function focuses on
+__________, and the finance function focuses on __________.
+A. prioritizing needs, problem solving 
+B. allocating funds, decision making 
+C. planning activities, resource management 
+D. reporting transactions, financial planning
+65. Which of the following is an activity conducted by the finance function of business:
+A. Tracking business expenditures 
+B. Preparing cash flow statements 
+C. Updating bookkeeping ledgers 
+D. Choosing appropriate investments
+66. The managerial accounting system emphasizes
+A. previous sales transactions. 
+B. the current financial situation. 
+C. a future orientation.
+D. ongoing tax obligations.
+67. A small business records transactions when it receives or spends money. What type of accounting
+system is the business using?
+A. Positional 
+B. Accrual 
+C. Cash 
+D. Static
+68. Which of the following is a tool that enables financial managers to identify changes or trends in
+production costs by reviewing the same types of data from different periods of time:
+A. Accounts-receivable summary 
+B. Frequency ratio 
+C. Comparative statement 
+D. Sales-transaction log
+69. The Buford Company's ability to pay its short-term debts has improved steadily over the past three years. What financial ratio helped the company identify this trend?
+A. Asset-turnover 
+B. Qualitative 
+C. Liquidity 
+D. Market-value
+70. Businesses consider a customer's income when determining whether to
+A. accept cash sales. 
+B. offer credit. 
+C. restructure policies.
+D. charge interest.
+71. A bank carefully analyzes a customer's current level of debt before it approves a(n)
+A. operating proposal. 
+B. service request. 
+C. loan application.
+D. insurance claim.
+72. If a small-business owner wants to identify the customers who owe money to the business, what type of report should s/he review?
+A. Accounts-payable 
+B. Aging-accounts 
+C. Asset-depreciation 
+D. Asset-allocation
+73. While reviewing a financial report, an electronics-store manager noticed that the store tends to sell more laptop computers and notebooks during December, January, June, and August than other times of the year. This information can help the store
+A. measure its long-term liabilities. 
+B. monitor its general operating costs. 
+C. make reliable sales forecasts.
+D. manage its sales staff effectively.
+74. Lily Marshall, a human resources manager with Spartan Industries, recently met with employee Barry Endicott. Barry accepted a position with another company and will begin his new job next week. During the meeting, Lily asked Barry what he liked and disliked about his job with Spartan and what the
+company can do to make working conditions better. What human-resources activity was Lily performing?
+A. Onboarding tasks 
+B. Exit interview 
+C. Application screening 
+D. Workplace familiarization
+75. Which of the following is most likely to have a negative effect on business's customer-satisfaction levels:
+A. Standing orders ship on time. 
+B. Items are frequently backordered. 
+C. Product quality is consistent.
+D. Staff has sufficient product knowledge.
+76. Monique, an office manager, used to organize hard copies of important documents in filing cabinets that took up an entire room. Now, she stores documents on her office computer, where they're easy to access and organize. Monique now uses
+A. Internet telephony. 
+B. a database. 
+C. an expert system.
+D. computer automation.
+77. Determine if the following statement is true or false: Groupware software applications often stimulate workplace creativity.
+A. False. The groupware application only allows users to update numerical data on shared
+documents.
+B. True. Groupware streamlines the work effort, so users have more time for social interaction.
+C. False. The primary focus of groupware is to communicate policies and procedures to users.
+D. True. Groupware allows users to share and brainstorm ideas that may improve work processes.
+78. To house its digital business records, EFG Corporation uses a remote database that employees can
+access anytime through the Internet. EFG Corporation is using ___________ to store its business
+records.
+A. cloud computing 
+B. a flash drive 
+C. streaming video 
+D. compact disks
+79. Statistical data revealed that Zane Industries sold 32% more of the Model EQ2 desktop photocopier last year after it made changes to increase the photocopier's speed and refine its print quality. In this
+situation, the statistical findings helped the company determine that
+A. research and development expenses exceeded the budget.
+B. its sales forecasts were inaccurate.
+C. product improvements helped boost sales.
+D. the company achieved its sales goals.
+80. Which of the following actions should a business take to help prevent robberies:
+A. Have one person open and close each day 
+B. Avoid making eye contact with customers 
+C. Hang up signs on doors and windows
+D. Make sure the facility is well-lit
+81. Successful project management depends on the use of appropriate
+A. pressure tactics. 
+B. outsourcing. 
+C. foreign investments.
+D. technology.
+82. When you want to select a new vendor for your business, it's best to
+A. continue using a vendor you've used before.
+B. go with a friend's recommendation.
+C. use a formal selection process.
+D. pick the vendor with the best online reviews.
+83. Which of the following factors are most likely to build a quality work culture:
+A. Coercion and empowerment 
+B. Consistency and censorship 
+C. Vision and unpredictability 
+D. Respect and honesty
+84. Which of the following is an example of a semi-variable business cost:
+A. Property taxes 
+B. Employees' salaries 
+C. Rent 
+D. Telephone service
+85. All of your friends are coming over for dinner tonight. Instead of asking what they'd like to eat, you decide to order pizza. What style of decision making are you using?
+A. Managing 
+B. Moderate 
+C. Minimum 
+D. Maximum
+86. Miguel always enjoyed designing and building bookshelves, tables, and storage cabinets for his family and friends in his spare time. Through word-of-mouth, others started to ask Miguel to build items for them. Requests for his services became so great that he decided to open his own woodworking
+business. Miguel decided to start his own business because of his
+A. passion for a hobby. 
+B. desire for a flexible schedule. 
+C. technological knowledge.
+D. need for adventure.
+87. Tracy's friend David works for TPS Industries. When Tracy saw a job on the company's web site that
+interested her, she contacted David to find out if he knew anything about the job. David told Tracy that he previously worked with the hiring manager on several projects and would put in a good word for her. In this situation, Tracy acted on an employment opportunity by
+A. volunteering her time. 
+B. networking with others. 
+C. requesting an internship.
+D. setting up a meeting.
+88. Lynnette works at Main Street Bank. Her primary job responsibility is to determine if the bank should lend funds to the bank's customers. Lynnette is working as a(n)
+A. collections officer. 
+B. credit analyst. 
+C. chartered financial consultant.
+D. bank agent.
+89. What is a primary responsibility of a company's controller?
+A. Evaluating property values
+B. Designing risk policies to minimize business losses
+C. Calculating the risk of loss
+D. Directing the preparation of financial reports
+90. Many businesspeople are required to take continuing education classes to
+A. supplement their existing income. 
+B. improve their standard of living. 
+C. demonstrate their emotional intelligence.
+D. maintain their professional certifications.
+91. Annette works for an insurance company. Her primary responsibilities involve establishing premium rates and designing insurance policies to cover risk. Annette is most likely to have certification as a
+A. Certified Financial Planner (CFP). 
+B. Certified Financial Analyst (CFA). 
+C. Chartered Life Underwriter (CLU).
+D. Chartered Investment Counselor (CIC).
+92. A loan officer who has special knowledge in real-estate loans is most likely to have a __________
+professional certification.
+A. Certified Information Systems Auditor (CISA)
+B. Certified Mortgage Banker (CMB)
+C. Certified Internal Auditor (CIA)
+D. Certified Annuities Specialist (CAS)
+93. To build a relationship with others working in the same field, a financial planner should consider
+A. participating in an appropriate professional organization.
+B. attending the local chamber of commerce meetings.
+C. taking an entrepreneurship class at the community college.
+D. sponsoring events for charitable organizations.
+94. Because Maggie's primary goal is to get ahead in the company, she often uses questionable tactics to
+get a sale, which sometimes involves misleading her customers. Maggie's behavior is a risk to her
+employer because Maggie places more importance on __________ than she does on __________.
+A. corporate branding, her own productivity 
+B. social responsibility, her career goals 
+C. personal gains, business ethics 
+D. operating procedures, compliance
+95. To reduce risks associated with unethical business activities, a company should clearly communicate its
+A. code of conduct to all employees.
+B. terms-of-sale policies to executive managers.
+C. product requirements to its primary distributors.
+D. dividend payment schedule to suppliers.
+96. What technological application do financial businesses use to evaluate how investment portfolios may react to changing conditions in the markets?
+A. Automated oversight 
+B. Stress testing 
+C. Financial compliance 
+D. Threat detection
+97. Lower premiums and the ability to control the claims process are advantages of
+A. captive insurance companies. 
+B. traditional liability insurance policies. 
+C. standard insurance companies.
+D. reinsurance carriers.
+98. CopyIt Printing Company employs several delivery drivers. Last year, the local police cited two of the
+company's new drivers for causing accidents that resulted in passenger injuries and vehicular damage.
+The printing company later discovered that the drivers were cited for numerous traffic violations while
+employed for other companies. To avoid hiring unsafe drivers in the future, the company should
+A. conduct background checks on job applicants.
+B. mandate drug testing for all employees on a monthly basis.
+C. require delivery drivers to take a driving exam every six months.
+D. ask job applicants about their former employers during the interview process.
+99. Which of the following is a limitation that businesses face with their internal risk-control activities:
+A. Economic conditions 
+B. Market dynamics 
+C. Trade agreements 
+D. Human judgment
+100. To control online transactional risks, a business should consider outsourcing its technology needs when it lacks
+A. external training. 
+B. financial resources. 
+C. secondary data.
+D. internal expertise.
